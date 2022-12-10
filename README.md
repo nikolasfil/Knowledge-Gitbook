@@ -1,2 +1,3 @@
-This is a repo to test gitbook
-Planning to make a public gitbook with some trivial knowledge I discover 
+# Gitbook 
+
+This is a repository that connects a gitbook containing little tricks and commands that I have obtained and use .
