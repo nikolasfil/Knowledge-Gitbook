@@ -1,4 +1,4 @@
-## Adding An Existing SSH key as a signing key 
+## Adding An Existing SSH key as verification for github Commits 
 
 Take the public ssh key . Go to SSH and GPG keys , add it as a signing key .
 Then head to the terminal 
